@@ -1,2 +1,2 @@
-//added new feature --button
+//added new feature --buttons
 console.log("hello world");
